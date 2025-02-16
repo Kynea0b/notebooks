@@ -12,3 +12,9 @@ dataset: [wrime](https://github.com/ids-cv/wrime)
 ```bash
 ! wget https://github.com/ids-cv/wrime/raw/master/wrime-ver1.tsv
 ```
+
+## 実験メモ；model比較
+
+感情分類ではほぼ差がない。
+bert-base-japanese-v3
+bert-base-japanese-whole-word-masking
